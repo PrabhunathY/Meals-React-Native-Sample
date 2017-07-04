@@ -1,0 +1,3 @@
+rootProject.name = 'MealsReactNativeSample'
+
+include ':app'
